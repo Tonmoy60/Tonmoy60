@@ -1,7 +1,7 @@
-Welcome to my Github page! I am MD Azim Khan(Tonmoy).
+💼 Welcome to my Github page! I am MD Azim Khan(Tonmoy).
 
 
-Things I have done so far:
+✅ Things I have done so far:
 
 - Completed my B.Sc. In Computer Science & Engineering form East West University, Dhaka, Bangladesh.
 - Worked as a Full time Technical Support Engineer for 6 months in RUBY IT Center Ltd. (affiliated with Mulytic Labs GmbH)
