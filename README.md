@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there :smiley:
 
 💼 Welcome to my Github page! I am MD Azim Khan(Tonmoy).
 
@@ -16,7 +16,7 @@ Hi there 👋
 - Operating Systems: Windows, Linux (Ubuntu).
 - Web Application Design & Development: HTML, CSS, and PHP.
 
-## Connect with me. :smiley:
+Connect with me. :smiley:
 
 <p>
 <a href="https://github.com/Tonmoy60">
