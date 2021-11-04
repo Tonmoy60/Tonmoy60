@@ -3,14 +3,18 @@
 <!--
 **Tonmoy60/Tonmoy60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my Github page! I am MD Azim Khan(Tonmoy).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Things I have done so far:
+
+- Completed my B.Sc. In Computer Science & Engineering form East West University, Dhaka, Bangladesh.
+- Worked as a Full time Technical Support Engineer for 6 months in RUBY IT Center Ltd. (affiliated with Mulytic Labs GmbH)
+- Worked as a Technical Support Engineer (Intern) for 3 months in RUBY IT Center Ltd. (affiliated with Mulytic Labs GmbH)
+
+💻 Programming languages and tools:
+
+- Programming Languages: C/C++, SQL, Python, Java OOP, Git, Linux scripting.
+- Other Tools and IDEs: ELK stack, Jira, Code Blocks, Matlab, Wireshark
+- Operating Systems: Windows, Linux (Ubuntu).
+- Web Application Design & Development: HTML, CSS, and PHP.
