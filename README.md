@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Tonmoy60/Tonmoy60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Welcome to my Github page! I am MD Azim Khan(Tonmoy).
 
 
