@@ -6,6 +6,7 @@ Hi there :smiley:
 ✅ Things I have done so far:
 
 - Completed my B.Sc. In Computer Science & Engineering form East West University, Dhaka, Bangladesh.
+- Currently working as a Technical Support Engineer for WPXPO.
 - Worked as a Full time Technical Support Engineer for 6 months in RUBY IT Center Ltd. (affiliated with Mulytic Labs GmbH)
 - Worked as a Technical Support Engineer (Intern) for 3 months in RUBY IT Center Ltd. (affiliated with Mulytic Labs GmbH)
 
