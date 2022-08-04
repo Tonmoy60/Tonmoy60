@@ -15,4 +15,4 @@ Hi there :smiley:
 - Programming Languages: C/C++, SQL, Python, Java OOP, Git, Linux scripting.
 - Other Tools and IDEs: ELK stack, Jira, Code Blocks, Matlab, Wireshark
 - Operating Systems: Windows, Linux (Ubuntu).
-- Web Application Design & Development: HTML, CSS, and PHP.
+- Web Application Design & Development: HTML, CSS, WordPress and PHP
